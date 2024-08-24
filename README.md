@@ -25,7 +25,7 @@ Mi nombre es Andres Mauricio Bermudez Valencia , cuento con conocimientos e inte
 
 - 🌐  **Ingeniero Mecánico**
 
-- 📱  Estoy estudiando **Técnico Laboral como Asistente de Desarrollo de Software **
+- 📱  Estoy estudiando **Técnico Laboral como Asistente de Desarrollo de Software**
   
 - 📫 Cómo contactarme **andres.mauro2105@gmail.com**
 
