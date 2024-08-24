@@ -32,7 +32,7 @@ Mi nombre es Andres Mauricio Bermudez Valencia , cuento con conocimientos e inte
 <br>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mauriciobermudez/" target="blank"><img align="center" src="https://github.com/Mauro2105" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mauriciobermudez/" target="blank"><img align="center" src="[https://github.com/Mauro2105" alt="supunnanayakkara](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara)" height="30" width="40" /></a>
 <a href="https://www.facebook.com/andreesmauriicioo.beermudezvalenciia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  height="30" width="40" /></a>
 <a href="https://www.instagram.com/mauroandres3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
