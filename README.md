@@ -3,7 +3,7 @@
 <h1 align="center">Hola, Bienvenidos a mi perfil 👋🏼</h1>
 
 <p align="center">
-Mi nombre es Andres Mauricio Bermudez Valencia, actualmente estoy estudiando desarrollo de software y soy ingeniero mecánico, cuento con conocimientos e interés por el área de desarrollo de software, análisis de datos y el ecosistema de Salesforce. Con valores sólidos y habilidades de trabajo en equipo, con sentido de responsabilidad, respeto y compromiso. Profesional en constante evolución, me gusta estar aprendiendo cosas nuevas, con solido conocimiento en varias herramientas tecnológicas Salesforce, HTML5, CCS3, MySQL, MongoDB, Docker,Git y GitHub, SQL, Looker Studio, Google cloud Platform, Power BI, Spring boot, Django, FastApi, Node.js, JavaScript, Java, Python, Postman, TablePlus, VScode, Eclipse💻🛠️</p>
+Mi nombre es Andres Mauricio Bermudez Valencia, actualmente estoy estudiando desarrollo de software y soy profesional en ingeniero mecánico, cuento con conocimientos e interés por el área de desarrollo de software, análisis de datos y el ecosistema de Salesforce. Con valores sólidos y habilidades de trabajo en equipo, con sentido de responsabilidad, respeto y compromiso. Profesional en constante evolución, me gusta estar aprendiendo cosas nuevas, con solido conocimiento en varias herramientas tecnológicas Salesforce, HTML5, CCS3, MySQL, MongoDB, Docker,Git y GitHub, SQL, Looker Studio, Google cloud Platform, Power BI, Spring boot, Django, FastApi, Node.js, JavaScript, Java, Python, Postman, TablePlus, VScode, Eclipse💻🛠️</p>
 
 
 <div align="center">
@@ -52,7 +52,7 @@ Mi nombre es Andres Mauricio Bermudez Valencia, actualmente estoy estudiando des
 - Front-End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,npm" />
+    <img src="https://skillicons.dev/icons?i=js,npm,html,ccs" />
   </a>
 </p>
 
