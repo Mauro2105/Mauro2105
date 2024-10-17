@@ -52,7 +52,7 @@ Mi nombre es Andres Mauricio Bermudez Valencia, actualmente estoy estudiando des
 - Front-End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,npm,html,ccs" />
+    <img src="https://skillicons.dev/icons?i=js,css,npm,html" />
   </a>
 </p>
 
