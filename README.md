@@ -31,7 +31,7 @@ Profesional en constante evolución, me gusta estar aprendiendo cosas nuevas, co
 
 - 🌐  **Ingeniero Mecánico**
 
-- 📱  Estoy estudiando **Técnico Laboral como Asistente de Desarrollo de Software**
+- 📱  **Técnico Laboral como Asistente de Desarrollo de Software**
   
 - 📫 Cómo contactarme **andres.mauro2105@gmail.com**
 
