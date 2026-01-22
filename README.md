@@ -3,7 +3,13 @@
 <h1 align="center">Hola, Bienvenidos a mi perfil 👋🏼</h1>
 
 <p align="center">
-Mi nombre es Andres Mauricio Bermudez Valencia, actualmente estoy estudiando desarrollo de software y soy profesional en ingeniero mecánico, cuento con conocimientos e interés por el área de desarrollo de software, análisis de datos y el ecosistema de Salesforce. Con valores sólidos y habilidades de trabajo en equipo, con sentido de responsabilidad, respeto y compromiso. Profesional en constante evolución, me gusta estar aprendiendo cosas nuevas, con solido conocimiento en varias herramientas tecnológicas Salesforce, HTML5, CCS3, MySQL, MongoDB, Docker,Git y GitHub, SQL, Looker Studio, Google cloud Platform, Power BI, Spring boot, Django, FastApi, Node.js, JavaScript, Java, Python, Postman, TablePlus, VScode, Eclipse💻🛠️</p>
+Mi nombre es Andres Mauricio Bermudez Valencia,Ingeniero Mecánico en transición al desarrollo de software con experiencia práctica en microservicios y procesamiento de datos.
+
+Actualmente, mi enfoque principal es el fortalecimiento de habilidades en Java (Quarkus) y el ecosistema AWS (Fargate, SQS, Lambda, CloudWatch, S3)), Confluent (Kafka) y Docker. Tengo experiencia participando en proyectos de migración de arquitectura y transformación de datos en tiempo real.
+
+Me apasiona el análisis de datos, el ecosistema Salesforce y explorar cómo la Inteligencia Artificial puede optimizar procesos de desarrollo. Busco seguir creciendo en entornos que utilicen tecnologías cloud y arquitecturas backend modernas.
+
+Profesional en constante evolución, me gusta estar aprendiendo cosas nuevas, con solido conocimiento en varias herramientas tecnológicas Salesforce, HTML5, CCS3, MySQL, MongoDB, Docker,Git y GitHub, SQL, Looker Studio, Google cloud Platform, Power BI, Spring boot, Django, FastApi, Node.js, JavaScript, Java, Python, Postman, TablePlus, VScode,AWS, Confluent Kafka, Nifi, Eclipse💻🛠️</p>
 
 
 <div align="center">
